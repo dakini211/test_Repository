@@ -8,4 +8,5 @@ main()
     cout<<"hola otra vez"<<endl;
     cout<<"hola x2"<<endl;
     cout<<"adios definitivo"<<endl;
+    cout<<"gola definitivo"<<endl;
 }
