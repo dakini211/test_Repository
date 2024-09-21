@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+
+main()
+{
+    cout<<"hola"<<endl;
+    cout<<"adios"<<endl;
+    cout<<"hola otra vez"<<endl;
+}
